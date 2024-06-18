@@ -30,7 +30,7 @@
       "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO",
       "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",  "KC_NO",  "KC_NO",  "KC_PSCR",
       "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",      "KC_NO",     "KC_NO", "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO"
-      ],
+    ],
     [
       "KC_NO", "RESET",  "DEBUG",  "KC_NO", "KC_NO",  "KC_NO",   "KC_NO",   "TERM_ON", "TERM_OFF", "KC_NO",  "KC_NO",  "KC_DEL",
       "KC_NO", "KC_NO",  "MU_MOD", "AU_ON", "AU_OFF", "AG_NORM", "AG_SWAP", "KC_NO",   "KC_NO",    "KC_NO",  "KC_NO",  "KC_NO",
