@@ -36,11 +36,11 @@
         "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",   "KC_NO", "KC_NO", "KC_NO", "KC_NO",  "KC_NO",  "KC_NO",  "KC_NO"
       ],
       [
-        "KC_F1", "KC_F2",  "KC_F3",  "KC_F4", "KC_F5",  "KC_F6",                       "KC_F7",   "KC_F8",   "KC_F9",    "KC_F10",  "KC_F11", "KC_F12",
-        "KC_NO", "RESET",  "DEBUG",  "KC_NO", "KC_NO",  "KC_NO",                       "KC_NO",   "TERM_ON", "TERM_OFF", "KC_NO",   "KC_NO",  "KC_DEL",
-        "KC_NO", "KC_NO",  "MU_MOD", "AU_ON", "AU_OFF", "AG_NORM",                     "AG_SWAP", "KC_NO",   "KC_NO",    "KC_NO",   "KC_NO",  "KC_NO",
-        "KC_NO", "MUV_DE", "MUV_IN", "MU_ON", "MU_OFF", "MI_ON",   "KC_NO",   "KC_NO", "MI_OFF",  "KC_NO",   "RGB_TOG",  "RGB_HUI", "RGB_SAI", "RGB_VAI",
-        "KC_NO", "KC_NO",  "KC_NO",  "KC_NO", "KC_NO",  "KC_NO",   "KC_NO",   "KC_NO", "KC_NO",   "KC_NO",   "RGB_MOD",  "RGB_HUD", "RGB_SAD", "RGB_VAD"
+        "KC_F1", "KC_F2",   "KC_F3",   "KC_F4", "KC_F5",  "KC_F6",                       "KC_F7",   "KC_F8", "KC_F9",   "KC_F10",  "KC_F11", "KC_F12",
+        "KC_NO", "RESET",   "DEBUG",   "KC_NO", "KC_NO",  "KC_NO",                       "KC_NO",   "KC_NO", "KC_NO",   "KC_NO",   "KC_NO",  "KC_DEL",
+        "KC_NO", "KC_NO",   "MU_NEXT", "AU_ON", "AU_OFF", "AG_NORM",                     "AG_SWAP", "KC_NO", "KC_NO",   "KC_NO",   "KC_NO",  "KC_NO",
+        "KC_NO", "AU_PREV", "AU_NEXT", "MU_ON", "MU_OFF", "MI_ON",   "KC_NO",   "KC_NO", "MI_OFF",  "KC_NO", "RGB_TOG", "RGB_HUI", "RGB_SAI", "RGB_VAI",
+        "KC_NO", "KC_NO",   "KC_NO",   "KC_NO", "KC_NO",  "KC_NO",   "KC_NO",   "KC_NO", "KC_NO",   "KC_NO", "RGB_MOD", "RGB_HUD", "RGB_SAD", "RGB_VAD"
       ]
     ]
 }
